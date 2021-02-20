@@ -134,7 +134,7 @@ namespace baştan_komvin_etme
                 textBox5.Text = pot[3];
 
             }
-
+            s
             serialPort1.DiscardInBuffer();
 
 
